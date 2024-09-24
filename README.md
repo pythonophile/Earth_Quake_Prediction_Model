@@ -1,6 +1,5 @@
 # Earthquake Prediction Model with Machine Learning
 
-**Team:** ML Team Gamma  
 **Project Title:** Earthquake Prediction Model with Machine Learning  
 
 ## Introduction
